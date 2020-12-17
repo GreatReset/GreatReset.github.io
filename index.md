@@ -1,4 +1,5 @@
 <script>
+    document.title = "\"COVID-19: The Great Reset\" – Resumo e crítica - Gustavo Moraes";
     document.getElementsByClassName("project-name")[0].innerHTML = "\"COVID-19: The Great Reset\"<br><small>Resumo e crítica</small>";
 </script>
 
