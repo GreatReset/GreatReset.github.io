@@ -10,6 +10,8 @@
 
 Você saberá porque conhecer "The Great Reset", do Fórum Econômico Mundial é mais importante do que você imagina.
 
-window.onload = function(){
-    document.getElementsByClassName("site-footer-credits")[0].innerHTML = "<center>Save the date: <b>08/01/2021</b></center>"
-};
+<script>
+    window.onload = function(){
+        document.getElementsByClassName("site-footer-credits")[0].innerHTML = "<center>Save the date: <b>08/01/2021</b></center>"
+    };
+</script>
