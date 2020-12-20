@@ -71,7 +71,7 @@
 
 ![cc_by_88x31](file:///P:/Books/Gustavo%20Moraes/_COVID-19_%20The%20Great%20Reset_%20-%20Resumo%20(41)/assets/cc_by_88x31.png)
 
-<small>Este e-book gratuito está licenciado com a [Creative Commons - Atribuição  4.0 Internacional](http://creativecommons.org/licenses/by/4.0) e disponível nos formatos:</small>
+<small>Este e-book gratuito está licenciado com a [Creative Commons - Atribuição  4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.pt_BR) e disponível nos formatos:</small>
 
 * <small>PDF (para imprimir);</small>
 * <small>MOBI (para leitores de e-book Kindle);</small>
@@ -120,7 +120,6 @@ Seguiremos um pouco da estrutura original do livro, para melhor coesão e facili
 * **Reinício econômico**
 * **Reinício geopolítico**
 * **Reinício científico e tecnológico**
-* **Reinício ambiental**
 * **Reinício cultural**
 * **Conclusão**
 
@@ -138,7 +137,7 @@ Além disso, o primeiro parágrafo do capítulo 1 ("Macro Reset") traz um intere
 2. Velocidade;
 3. Complexidade.
 
-A globalização gerou um mundo onde praticamente todos os países estão dependendo dos outros. Uns, com commodities, outros, com indústria, e outros com engenharia e tecnologia. O livro critica este mundo, chamando-o de "hiperconectado" – uma palavra variante de "interdependência com esteróides" (fazendo referência à drogas proibidas no mundo da musculação e fisiculturismo).
+A globalização gerou um mundo onde praticamente todos os países estão dependendo dos outros. Uns, com commodities, outros, com indústria, e outros com engenharia e tecnologia. O livro critica este mundo, chamando-o de "hiperconectado" – uma "interdependência com esteróides" (fazendo referência à drogas proibidas no mundo da musculação e fisiculturismo).
 
 A globalização também gerou um mundo que "gira" numa velocidade muito alta, onde áreas como a tecnologia avançaram muito rapidamente: segundo o livro, mais da metade da população mundial (52%) está online na Internet, a Inteligência Artificial (IA) já automatizou algumas profissões que antes eram desempenhadas por humanos, e a Internet da Coisas (IoT) agora conecta 22 bilhões de dispositivos em tempo real (sendo esperado pelo Fórum Econômico Mundial que este número chegue a 50 bilhões ou mais até 2030). Porém, a velocidade gerou complexidade: coisas como as _fake news_ apareceram, e estas se mostraram "nocivas" especialmente durante a epidemia de COVID-19.
 
