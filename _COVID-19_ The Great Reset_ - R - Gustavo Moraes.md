@@ -40,6 +40,7 @@
   h6 { font-size: 1em; }
   p { text-indent: 2em; }
   h1, h2, h3, h4, h5, h6, p, pre { width: 100% !important; }
+  hr { height: 1px; border: 0px solid gray; background-color: gray; }
   figure, blockquote { margin-left: initial; margin-right: initial; }
   figure { text-align: center; }
   figure > img { max-width: 100%; }
@@ -63,15 +64,12 @@
 
 # "COVID-19: The Great Reset" – Resumo e crítica
 
-<small>Gustavo Moraes (gustavosotnas1@pm.me)</small>
-
-<small>Janeiro de 2021</small>
-
+<p style="margin-bottom: 0px;"><small>Gustavo Moraes (<a href="mailto:gustavosotnas1@pm.me" target="_blank">gustavosotnas1@pm.me</a>)</small></p>
+<p style="margin-top: 0px;"><small>Janeiro de 2021</small></p>
 ----
 
-![cc_by_88x31](file:///P:/Books/Gustavo%20Moraes/_COVID-19_%20The%20Great%20Reset_%20-%20Resumo%20(41)/assets/cc_by_88x31.png)
-
-<small>Este e-book gratuito está licenciado com a [Creative Commons - Atribuição  4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.pt_BR) e disponível nos formatos:</small>
+<p style="text-indent: initial; margin-bottom: 0px;"><img alt="cc_by_88x31" style="display: initial; margin: initial; border: initial; width: initial; box-shadow: initial; vertical-align: initial;" src="file:///P:/Books/Gustavo%20Moraes/_COVID-19_%20The%20Great%20Reset_%20-%20Resumo%20(42)/assets/cc_by_88x31.png"></p>
+<p style="text-indent: initial; margin-top: 8px;"><small>Este e-book gratuito está licenciado com a <a href="https://creativecommons.org/licenses/by/4.0/deed.pt_BR">Creative Commons - Atribuição  4.0 Internacional</a> e disponível nos formatos:</small></p>
 
 * <small>PDF (para imprimir);</small>
 * <small>MOBI (para leitores de e-book Kindle);</small>
@@ -79,8 +77,7 @@
 * <small>HTML (para ler online no computador ou no celular);</small>
 * <small>MP3 (audiobook - livro em áudio)</small>
 
-<small>No hotsite: <a href="https://greatreset.github.io">greatreset.github.io</a></small>
-
+<p style="text-indent: initial;"><small>No hotsite: <a href="https://greatreset.github.io">greatreset.github.io</a></small></p>
 ## Prefácio
 
 ### Sobre o livro-alvo
@@ -92,7 +89,7 @@ A título de conhecimento, o Fórum Econômico Mundial é uma organização ofic
 O Fórum Econômico Mundial é conhecido na mídia pelas suas conferências anuais na cidade de Davos (Suíça), que já tiveram a presença de políticos como o Xi Jinping (China) e Nelson Mandela (África do Sul), ativistas como Malala Yousafzai (Paquistão), Greta Thunberg (Suécia) e Naomi Wadler (EUA), e celebridades como Elton John, Matt Damon e Pharrell Williams.
 
 <figure>
-  <img src="file:///P:/Books/Gustavo%20Moraes/_COVID-19_%20The%20Great%20Reset_%20-%20Resumo%20(41)/assets/WEF_on_Middle_East_and_North_Africa_may_2017.jpg" alt="World Economic Forum on the Middle East and North Africa, Dead Sea, 19-21 May 2017"><br>
+  <img src="file:///P:/Books/Gustavo%20Moraes/_COVID-19_%20The%20Great%20Reset_%20-%20Resumo%20(42)/assets/WEF_on_Middle_East_and_North_Africa_may_2017.jpg" alt="World Economic Forum on the Middle East and North Africa, Dead Sea, 19-21 May 2017"><br>
     <figcaption><small>Figura 1 – Reunião do Fórum Econômico Mundial sobre o Oriente Médio e Norte da África - Mar Morto, 19 a 21 de maio de 2017. Foto: Reprodução / Fórum Econômico Mundial.</small></figcaption>
 </figure> 
 
@@ -155,11 +152,11 @@ O "**Great Reset**" na economia será o fim da "tirania do crescimento do PIB": 
 4. Fim do conceito de inflação e deflação e;
 5. Fim de incentivos econômicos que desrespeitam o meio-ambiente.
 
-No decorrer da explanação destas ações, o livro deixa para os seus leitores uma espécie de "cronograma": até março de 2021 será permitido à boa parte dos bancos centrais de imprimir e injetar dinheiro artificialmente e sem freios na economia, e dos governos de continuarem o pagamento de auxílios emergenciais e empréstimos a juros baixos com orçamento extraordinário. O fim destas políticas de _"helicopter money"_ provocará uma quebra da economia maior do que a vista em março de 2020, maior do que a Crise Financeira de 2008 e maior ainda que a Grande Depressão dos anos 1930 ("uma crise como nenhuma outra, com uma recuperação incerta", diz o livro em citação do FMI – Fundo Monetário Internacional). O livro admite que esta crise, aliada também ao desemprego (que não alcançou taxas anteriores às anteriores da pandemia de COVID-19), provocará um impacto negativo maior nos mais pobres do que nos mais ricos (especialmente nos trabalhadores de classe média que trabalham em áreas como de serviços, transportes, alimentação e manufatura); mas o livro promete que o aumento da desigualdade será temporário, e terá fim depois da conclusão do "Reinício econômico".
+No decorrer da explanação destas ações, o livro deixa para os seus leitores uma espécie de "cronograma": até março de 2021 será permitido à boa parte dos bancos centrais de imprimir e injetar dinheiro artificialmente e sem freios na economia, e dos governos de continuarem o pagamento de auxílios emergenciais e empréstimos a juros baixos com orçamento extraordinário. O fim destas políticas de _helicopter money_ provocará uma quebra da economia maior do que a vista em março de 2020, maior do que a Crise Financeira de 2008 e maior ainda que a Grande Depressão dos anos 1930 ("uma crise como nenhuma outra, com uma recuperação incerta", diz o livro em citação ao FMI – Fundo Monetário Internacional). O livro admite que esta crise, aliada também ao desemprego (que não alcançou taxas anteriores às anteriores da pandemia de COVID-19), provocará um impacto negativo maior nos mais pobres do que nos mais ricos (especialmente nos trabalhadores de classe média que trabalham em áreas como de serviços, transportes, alimentação e manufatura); mas o livro promete que o aumento da desigualdade será temporário, e terá fim depois da conclusão do "Reinício econômico".
 
 Além disso, por conta das cédulas e moedas físicas carregarem muita sujeira e possivelmente Coronavírus, de haverem sonegadores fiscais, e corruptos que fazem lavagem de dinheiro; as tecnologias que temos hoje permitem a digitalização completa das moedas correntes no mundo e consequente fim do dinheiro físico. Isto permitirá melhor aplicação de medidas de distanciamento físico e higiene, redução de custos de transações bancárias, e melhores políticas fiscais e monetárias em todo o mundo (com mais arrecadação ao fisco).
 
-A pandemia tirou a "máscara" do neoliberalismo. Desmascarou o quão maléfico ele é, o quanto do "fetichismo de mercado" é ruim, e o quanto o PIB e PIB _per capita_ são indicadores inúteis e mentirosos de qualidade de vida. Governos populistas de direita no Ocidente se mostraram os mais frágeis e os menos resilientes economicamente, e a pandemia expôs as desigualidades sociais que estavam escondidas atrás dos seus números de PIB. Para resolver isto tudo, a implementação de um "orçamento de bem-estar social" e de salário básico universal acabará com esta "tirania do crescimento do PIB". "**The Great Reset**" apela à adoção de uma redução da escala da economia democraticamente planejada, porém adaptável, sustentável e equitativa, levando a um futuro em que possamos viver melhor com menos. Depois da conclusão do "Reinício econômico", até os indicadores de inflação e deflação serão desnecessários, pois haverá fim das desigualidades e a pobreza será erradicada.
+Segundo o livro, a pandemia tirou a "máscara" do neoliberalismo. Desmascarou o quão maléfico ele é, o quanto o "fetichismo de mercado" é mortal, e o quanto o PIB e PIB _per capita_ são indicadores inúteis e mentirosos de qualidade de vida. Governos populistas de direita no Ocidente se mostraram os mais frágeis e os menos resilientes, e a pandemia expôs as desigualidades sociais que estavam escondidas atrás dos seus números de PIB. Para resolver isto tudo, a implementação de um "orçamento de bem-estar social" e de um **salário básico universal** acabará com esta "tirania do crescimento do PIB". "*The Great Reset*" apela à adoção de uma redução da escala da economia democraticamente planejada, porém adaptável, sustentável e equitativa, levando a um futuro em que possamos viver melhor com menos. Depois da conclusão do "Reinício econômico", até os indicadores de inflação e deflação serão desnecessários, pois haverá o fim das desigualidades e a pobreza será erradicada.
 
 Por fim, "**The Great Reset**" pretende ser o novo "_Green New Deal_". A pandemia deu a todas as nações a possibilidade de mudar prioridades e construir uma economia "amiga da natureza". A ideia básica é: tanto governos quanto o mercado financeiro deixar de dar prioridade para coisas como petróleo e gás, e dar prioridade para empresas e ideias de formas mais limpas de geração de energia, fim de emissão de carbono na atmosfera e fim das mudanças climáticas.
 
@@ -232,6 +229,14 @@ O Great Reset propõe soluções que geram problemas maiores ainda que os proble
 "Respeito ao meio-ambiente" é paganismo. Mãe-Natureza. Adoram a criação ao invés do Criador (Romanos 1).
 
 Deus bem que nos avisou que no final dos tempos haveriam muitas pessoas que, tendo forma de piedade, tem sede de poder; e nos aconselhou a fugir deles (2ª Timóteo 3.5).
+
+Eric Voegelin foi um filósofo alemão que estudou profundamente o marxismo e viveu na pele o nazismo. Depois que e sua esposa fugiram para os Estados Unidos, ele escreveu vários livros, e em um deles, o "" (), ele cunhou o termo "Dogmatomaquia", para sintetizar o fenômeno que ideologias fazem com as pessoas ao se mostrar como uma cosmovisão (sendo que uma ideologia é uma cosmovisão torta por definição) e ao instrumentalizar a ciência e uma ou mais de suas áreas, conceitos e/ou pessoas que fazem ou fizeram parte da construção dela. E quando uma dogmatomaquia é bem sucedida – em outras palavras, ela "cola" –, temos um forte combustível para um regime totalitário surgir. 
+
+Baseado nisto podemos afirmar que a dogmatomaquia foi (entre outras coisas) o que fez o nazismo ser uma ideologia tão maligna, porque era em nome da "ciência" que aquelas experiências com humanos e aquelas mortes aconteciam (não irei citá-los até mesmo porque os livros de História e filmes de época já retratam bem o nazismo). O poder dos "dogmas" nazistas na mente das pessoas era tão forte que muitos dos que faziam tais atrocidades sentiam peso nenhum na consciência. É a lavagem cerebral como regra, ideologia como religião e líder da ideologia como deus.
+
+Hoje vivemos novamente em uma época onde políticos tomam decisões arbitrárias em nome da "ciência" e onde pessoas que se acham donas do mundo querem fazer que todos sigam os "dogmas" deles, dizendo que são bons, são "o futuro" ou algo semelhante. Nenhuma semelhança com o nazismo é mera coincidência.
+
+E por falar em nazismo, tivemos outra contribuinte à Filosofia e que foi sobrevivente do pior regime totalitário da História: Hannah Arendt. Origens do Totalitarismo Esquerda e Direita.
 
 ## Referências Bibliográficas
 
