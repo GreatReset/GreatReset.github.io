@@ -10,8 +10,20 @@
 
 Você saberá porque conhecer "The Great Reset", do Fórum Econômico Mundial é mais importante do que você imagina.
 
+Download **grátis** do e-book:
+
+[![PDF](https://img.shields.io/badge/%20Baixar%20-PDF-EC1C24.svg?style=for-the-badge&logo=adobe-acrobat-reader&colorA=263238&logoColor=EC1C24)](https://rawcdn.githack.com/GreatReset/GreatReset.github.io/57fdf00d38f7205f07f0aa6fbfd3e14f105f10fa/_COVID-19_ The Great Reset_ - R - Gustavo Moraes.pdf)
+[![MOBI](https://img.shields.io/badge/%20Baixar%20-MOBI-FF9900.svg?style=for-the-badge&logo=amazon&colorA=263238&logoColor=FF9900)](https://rawcdn.githack.com/GreatReset/GreatReset.github.io/57fdf00d38f7205f07f0aa6fbfd3e14f105f10fa/_COVID-19_ The Great Reset_ - R - Gustavo Moraes.mobi)
+[![EPUB](https://img.shields.io/badge/%20Baixar%20-EPUB-bababa.svg?style=for-the-badge&logo=apple&colorA=263238&logoColor=efefef)](https://rawcdn.githack.com/GreatReset/GreatReset.github.io/57fdf00d38f7205f07f0aa6fbfd3e14f105f10fa/_COVID-19_ The Great Reset_ - R - Gustavo Moraes.epub)
+[![HTML](https://img.shields.io/badge/%20Ler%20online%20-HTML-E34F26.svg?style=for-the-badge&logo=html5&colorA=263238&logoColor=E34F26)](https://rawcdn.githack.com/GreatReset/GreatReset.github.io/57fdf00d38f7205f07f0aa6fbfd3e14f105f10fa/_COVID-19_ The Great Reset_ - R - Gustavo Moraes.html)
+
+* <small>PDF (para imprimir)</small>
+* <small>MOBI (para leitores de e-book Kindle)</small>
+* <small>EPUB (para demais leitores de e-book e iPad)</small>
+* <small>HTML (para ler online no computador ou no celular)</small>
+
 <script>
     window.onload = function(){
-        document.getElementsByClassName("site-footer-credits")[0].innerHTML = "<center>Save the date: <b>08/01/2021</b></center>"
+        document.getElementsByClassName("site-footer-credits")[0].innerHTML = "<center>Em breve lançamento da edição audiobook. Save the date: <b>22/01/2021</b></center>"
     };
 </script>
