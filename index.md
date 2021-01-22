@@ -24,6 +24,6 @@ Download **grátis** do e-book:
 
 <script>
     window.onload = function(){
-        document.getElementsByClassName("site-footer-credits")[0].innerHTML = "<center>Em breve, lançamento do audiolivro de \"'COVID-19: The Great Reset' – Resumo e crítica\". Save the date: <b>29/01/2021</b></center>"
+        document.getElementsByClassName("site-footer-credits")[0].innerHTML = "<center>Em breve, lançamento do audiolivro de <i>\"'COVID-19: The Great Reset' – Resumo e crítica\"</i>. <br><br> Save the date: <br> <b>29/01/2021</b></center>"
     };
 </script>
