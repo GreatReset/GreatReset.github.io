@@ -10,7 +10,9 @@
 
 Você saberá porque conhecer _"O Grande Reinício"_, do Fórum Econômico Mundial, é mais importante do que você imagina.
 
-Download **grátis** do e-book:
+## E-book
+
+O e-book "'COVID-19: The Great Reset' - Resumo e crítica" está disponível para download **grátis** nos seguintes formatos:
 
 [![PDF](https://img.shields.io/badge/%20Baixar%20-PDF-EC1C24.svg?style=for-the-badge&logo=adobe-acrobat-reader&colorA=263238&logoColor=EC1C24)](https://rawcdn.githack.com/GreatReset/GreatReset.github.io/57fdf00d38f7205f07f0aa6fbfd3e14f105f10fa/_COVID-19_ The Great Reset_ - R - Gustavo Moraes.pdf)
 [![MOBI](https://img.shields.io/badge/%20Baixar%20-MOBI-FF9900.svg?style=for-the-badge&logo=amazon&colorA=263238&logoColor=FF9900)](https://rawcdn.githack.com/GreatReset/GreatReset.github.io/57fdf00d38f7205f07f0aa6fbfd3e14f105f10fa/_COVID-19_ The Great Reset_ - R - Gustavo Moraes.mobi)
@@ -21,6 +23,14 @@ Download **grátis** do e-book:
 * <small>MOBI (para leitores de e-book Kindle)</small>
 * <small>EPUB (para demais leitores de e-book e iPad)</small>
 * <small>HTML (para ler online no computador ou no celular)</small>
+
+O e-book também está disponível na **Amazon Kindle**. Apoie o trabalho do autor adquirindo o e-book na loja:
+
+<img style="text-align: center;" alt="Amazon Kindle badge" src="e-book_badge.png">
+
+## Audiobook
+
+
 
 <script>
     window.onload = function(){
