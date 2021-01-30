@@ -26,14 +26,22 @@ O e-book "'COVID-19: The Great Reset' - Resumo e crítica" está disponível par
 
 O e-book também está disponível na **Amazon Kindle**. Apoie o trabalho do autor adquirindo o e-book na loja:
 
-<img style="text-align: center;" alt="Amazon Kindle badge" src="e-book_badge.png">
+<p style="text-align: center;">
+<img alt="Amazon Kindle badge" src="e-book_badge.png">
+</p>
 
 ## Audiobook
 
+O audiolivro do e-book "'COVID-19: The Great Reset' - Resumo e crítica" está disponível nas principais plataformas de música e também para download **grátis** no formato MP3:
 
+[![YouTube](https://img.shields.io/badge/%20OUÇA NO%20-YOUTUBE-FF0000.svg?style=for-the-badge&logo=youtube&colorA=263238&logoColor=ff4040)](https://youtube.com/watch?v=Tij1zkWHDWc)
+
+[![SoundCloud](https://img.shields.io/badge/%20OU%C3%87A%20NO%20-SOUNDCLOUD-ff5500.svg?style=for-the-badge&logo=soundcloud&colorA=263238&logoColor=ff7600)](https://youtube.com/watch?v=Tij1zkWHDWc)
+
+[![MP3](https://img.shields.io/badge/%20Baixar%20-MP3-17bbcd.svg?style=for-the-badge&logo=discogs&colorA=263238&logoColor=5eddeb)](https://u.pcloud.link/publink/show?code=kZDFebXZnjCFU3N9WDYj5yfCUHAyz82YWqqX)
 
 <script>
     window.onload = function(){
-        document.getElementsByClassName("site-footer-credits")[0].innerHTML = "<center>Em breve, lançamento do audiolivro de <i>\"'COVID-19: The Great Reset' – Resumo e crítica\"</i>. <br><br> Save the date: <br> <b>29/01/2021</b></center>"
+        document.getElementsByClassName("site-footer-credits")[0].innerHTML = "<center>Em breve, lançamento do audiolivro de <i>\"'COVID-19: The Great Reset' – Resumo e crítica\"</i> na Deezer, Spotify, Apple Music e mais. <br><br> Save the date: <br> <b>27/02/2021</b></center>"
     };
 </script>
