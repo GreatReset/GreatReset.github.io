@@ -37,7 +37,7 @@ O audiolivro do e-book "'COVID-19: The Great Reset' - Resumo e crítica" está d
 O e-book também está disponível na **Amazon Kindle**. Apoie o trabalho do autor adquirindo o e-book na loja:
 
 <p style="text-align: center;">
-<a href="https://www.amazon.com.br/COVID-19-Great-Reset-Resumo-cr%C3%ADtica-ebook/dp/B08SKG13F4"><img alt="Amazon Kindle badge" src="e-book_badge.png"></a>
+<a href="https://www.amazon.com.br/COVID-19-Great-Reset-Resumo-cr%C3%ADtica-ebook/dp/B08SKG13F4"><img alt="Amazon Kindle badge" src="e-book_badge.svg"></a>
 </p>
 
 <script>
