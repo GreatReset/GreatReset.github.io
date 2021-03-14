@@ -42,6 +42,6 @@ O e-book também está disponível na **Amazon Kindle**. Apoie o trabalho do aut
 
 <script>
     window.onload = function(){
-        document.getElementsByClassName("site-footer-credits")[0].innerHTML = "<center>Em breve, lançamento do audiolivro de <i>\"'COVID-19: The Great Reset' – Resumo e crítica\"</i> na Deezer, Spotify, Apple Music e mais. <br><br> Save the date: <br> <b>27/02/2021</b></center>"
+        document.getElementsByClassName("site-footer-credits")[0].innerHTML = "Copyright © 2021 Gustavo Moraes"
     };
 </script>
